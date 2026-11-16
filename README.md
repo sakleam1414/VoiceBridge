@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="VoiceBridge v2.2 — Живые субтитры голоса друзей поверх игр" width="100%" />
+<img src="assets/banner.png" alt="VoiceBridge — Живые субтитры голоса друзей поверх игр" width="100%" />
 
 <br/><br/>
 
-[![Скачать v2.2](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-VoiceBridge%20v2.2%20%28.exe%29-6FE7C1?style=for-the-badge&labelColor=0D1118)](https://github.com/sakleam1414/VoiceBridge/releases/download/v2.2/VoiceBridge.exe)
+[![Скачать VoiceBridge Setup](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F_%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C-VoiceBridge_Setup.exe-6FE7C1?style=for-the-badge&labelColor=0D1118)](https://github.com/sakleam1414/VoiceBridge/releases/latest/download/VoiceBridge_Setup.exe)
 [![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011%20%28x64%29-8DB5FF?style=for-the-badge&logoColor=white&labelColor=0D1118)](https://github.com/sakleam1414/VoiceBridge/releases/latest)
 [![Локальный ИИ](https://img.shields.io/badge/%D0%98%D0%98-%D0%9B%D0%BE%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%20%D0%BD%D0%B0%20%D0%9F%D0%9A-A78BFA?style=for-the-badge&labelColor=0D1118)](#privacy)
 [![Telegram Бот](https://img.shields.io/badge/Telegram-%40VoiceBridgePayBot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1118)](https://t.me/VoiceBridgePayBot)
@@ -13,7 +13,7 @@
 **Голос становится текстом прямо поверх любимых игр.**
 Лёгкие настраиваемые субтитры речи команды — с локальным распознаванием на вашем ПК, выбором сети и встроенным блокнотом.
 
-[📦 Скачать v2.2](https://github.com/sakleam1414/VoiceBridge/releases/download/v2.2/VoiceBridge.exe) · [🎬 Демо поверх игры](#demo) · [✨ Возможности](#features) · [🖼️ Скриншоты](#screenshots) · [❓ Частые вопросы](#faq)
+[📦 Скачать установщик (Setup)](https://github.com/sakleam1414/VoiceBridge/releases/latest/download/VoiceBridge_Setup.exe) · [🎬 Демо поверх игры](#demo) · [✨ Возможности](#features) · [🖼️ Скриншоты](#screenshots) · [❓ Частые вопросы](#faq)
 
 </div>
 
@@ -95,7 +95,7 @@
 
 ## 🚀 Быстрый старт
 
-1. 📥 **Скачайте** актуальный файл [`VoiceBridge.exe`](https://github.com/sakleam1414/VoiceBridge/releases/download/v2.2/VoiceBridge.exe) из раздела [Releases](https://github.com/sakleam1414/VoiceBridge/releases/latest).
+1. 📥 **Скачайте** и запустите установщик [`VoiceBridge_Setup.exe`](https://github.com/sakleam1414/VoiceBridge/releases/latest/download/VoiceBridge_Setup.exe) *(или переносную версию [`VoiceBridge.exe`](https://github.com/sakleam1414/VoiceBridge/releases/latest/download/VoiceBridge.exe))* из раздела [Releases](https://github.com/sakleam1414/VoiceBridge/releases/latest).
 2. 🎙️ Откройте вкладку **«Микрофон»**, выберите ваше устройство и загрузите удобную модель распознавания во вкладке **«Модели ИИ»**.
 3. 🌐 Перейдите в раздел **«Команда»** и выберите подходящий способ связи: **Своя сеть**, **Radmin VPN** или **Tailscale / Прямой IP**.
 4. 🎮 Включите оверлей на вкладке **«Субтитры»**, переведите игру в режим *«Оконный без рамки»* — готово!
@@ -138,6 +138,6 @@
 
 <div align="center">
 
-<sub><b>VoiceBridge v2.2</b> · Windows 10 / 11 · Сделано для комфортного общения в играх</sub>
+<sub><b>VoiceBridge</b> · Windows 10 / 11 · Сделано для комфортного общения в играх</sub>
 
 </div>
